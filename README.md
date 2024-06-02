@@ -49,9 +49,9 @@ Leverage AI and data analysis to classify Nasdaq-100 stocks into sectors and sum
 * Informed Decision-Making: Delivered strategic insights, enabling data-driven investment decisions.
 
 ### Business Relevance
-Investment Strategy: Facilitated informed investment strategies by highlighting top-performing sectors and stocks.
-Efficiency Gains: Automated classification and summarization processes, enhancing analysis efficiency.
-Market Analysis: Offered a comprehensive overview of sector performance, aiding in market trend analysis and strategic planning.
+* Investment Strategy: Facilitated informed investment strategies by highlighting top-performing sectors and stocks.
+* Efficiency Gains: Automated classification and summarization processes, enhancing analysis efficiency.
+* Market Analysis: Offered a comprehensive overview of sector performance, aiding in market trend analysis and strategic planning.
 
 
 ## 3. Movie Features Correlation in Python
