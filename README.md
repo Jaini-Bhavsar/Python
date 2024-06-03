@@ -53,8 +53,31 @@ Leverage AI and data analysis to classify Nasdaq-100 stocks into sectors and sum
 * Efficiency Gains: Automated classification and summarization processes, enhancing analysis efficiency.
 * Market Analysis: Offered a comprehensive overview of sector performance, aiding in market trend analysis and strategic planning.
 
+## 3. Retail Sales Forecast: Advanced Time Series Analysis
+### Goal
+The goal of this project was to forecast retail sales using advanced time series analysis techniques. By leveraging historical sales data from a Superstore dataset, the project aimed to predict future sales trends, identify seasonal patterns, and provide actionable insights to optimize inventory management and improve strategic decision-making.
 
-## 3. Movie Features Correlation in Python
+### Skills Utilized
+* Data Cleaning and Preparation: Processed raw sales data by removing unnecessary columns, handling missing values, and aggregating sales by date.
+* Exploratory Data Analysis (EDA): Visualized data to uncover trends, seasonality, and patterns using Python libraries such as pandas, matplotlib, and seaborn.
+* Time Series Decomposition: Decomposed the sales data into trend, seasonality, and noise components to understand underlying patterns.
+* Modeling and Forecasting: Utilized ARIMA (AutoRegressive Integrated Moving Average) and Prophet models to build robust forecasts. Conducted parameter tuning and validation to optimize model performance.
+* Validation and Metrics: Evaluated model accuracy using metrics like Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
+* Visualization: Created detailed visualizations to compare observed and forecasted sales, highlighting key trends and future predictions.
+
+### Results and Insights
+* Accurate Forecasts: The ARIMA and Prophet models provided accurate sales forecasts, with the ARIMA model achieving a low MSE of 22993.58 and an RMSE of 151.64.
+* Seasonal Patterns: Identified clear seasonal trends, with sales peaking towards the end of the year and dipping at the beginning.
+* Category Comparison: Analyzed and compared sales trends between Furniture and Office Supplies, revealing that Office Supplies had a stronger growth trend over time.
+* Future Sales Predictions: Produced forecasts for the next 36 months, providing valuable insights into expected sales trends and potential peak periods.
+
+### Business Relevance
+* Inventory Management: By accurately forecasting sales, businesses can optimize their inventory levels, reducing costs associated with overstocking or stockouts.
+* Strategic Planning: Understanding future sales trends enables better strategic planning and resource allocation, ensuring that businesses are prepared for peak periods.
+* Marketing Campaigns: Insights into seasonal patterns allow businesses to time their marketing campaigns effectively, maximizing their impact during high-sales periods.
+* Competitive Advantage: Advanced forecasting provides a competitive edge, allowing businesses to anticipate market trends and make data-driven decisions.
+
+## 4. Movie Features Correlation in Python
 - Taken the movie dataset from Kaggle - https://www.kaggle.com/danielgrijalvas/movies
 - Used some libraries such as Panda, Numpy, Seaborn, Matplotlib to perform some operations.
 - Plotted correlation between all the features of the dataset.
