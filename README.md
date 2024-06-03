@@ -12,9 +12,6 @@ The project's goal was to apply Python and pandas to analyze marketing data and 
 * Statistical Analysis: Calculating conversion and retention rates, A/B testing
 * Data Cleaning: Resolving inconsistencies and preparing data for analysis
 
-### Business Relevance
-It provided actionable insights on campaign performance and channel effectiveness, aiding strategic decision-making and optimization of marketing efforts.
-
 ### Key Features
 * Data Importing and Cleaning: Imported datasets and performed initial exploratory analysis. Cleaned and preprocessed data to ensure accuracy for analysis.
 * Exploratory Analysis and Metrics Calculation: Analyzed common marketing metrics like conversion and retention rates. Conducted user segmentation and compared performance across different segments.
@@ -27,6 +24,9 @@ It provided actionable insights on campaign performance and channel effectivenes
 * User Segmentation: Provided insights into customer segments, improving targeting strategies.
 * A/B Testing: Demonstrated the importance of segmentation and evaluated the impact of marketing strategies.
 * Actionable Insights: Delivered data-driven recommendations for marketing optimization, reinforcing the value of data analysis in strategic decision-making.
+
+### Business Relevance
+It provided actionable insights on campaign performance and channel effectiveness, aiding strategic decision-making and optimization of marketing efforts.
 
 ## 2. Enriching Stock Market Data using Open AI API
 ### Goal
